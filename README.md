@@ -1,4 +1,4 @@
-# Reddit comment watcher for discord bot
+# Discord reddit comment watcher
 
 A discord bot who detects new comments for a specific reddit post. Recommend using pythoneverywhere/heroku for hosting. 
 
